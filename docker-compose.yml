@@ -1,0 +1,10 @@
+version: '3.1'
+
+services:
+  support:
+    container_name: support
+    image: ${REPOSITORY}/support:${image_env}
+    pull_policy: always
+    ports:
+      - 3020:5000
+    restart: always

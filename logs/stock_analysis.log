@@ -1,0 +1,8 @@
+2024-07-18 05:52:44,526 INFO: Logging setup complete. [in /home/haseeb/Documents/Dev/Trader-backend/app/logging_config.py:19]
+2024-07-18 05:52:44,538 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in /home/haseeb/Documents/Dev/.venv/lib/python3.10/site-packages/werkzeug/_internal.py:97]
+2024-07-18 05:52:44,538 INFO: [33mPress CTRL+C to quit[0m [in /home/haseeb/Documents/Dev/.venv/lib/python3.10/site-packages/werkzeug/_internal.py:97]
+2024-07-18 05:52:44,539 INFO:  * Restarting with stat [in /home/haseeb/Documents/Dev/.venv/lib/python3.10/site-packages/werkzeug/_internal.py:97]
+2024-07-18 05:52:45,188 INFO: Logging setup complete. [in /home/haseeb/Documents/Dev/Trader-backend/app/logging_config.py:19]
+2024-07-18 05:52:45,194 WARNING:  * Debugger is active! [in /home/haseeb/Documents/Dev/.venv/lib/python3.10/site-packages/werkzeug/_internal.py:97]
+2024-07-18 05:52:45,267 INFO:  * Debugger PIN: 374-831-064 [in /home/haseeb/Documents/Dev/.venv/lib/python3.10/site-packages/werkzeug/_internal.py:97]
